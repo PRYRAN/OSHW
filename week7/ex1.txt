@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2367	    616	      8	   2991	    baf	main
