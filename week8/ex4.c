@@ -14,6 +14,5 @@ int main() {
         printf("%ld ", us.ru_maxrss);
         sleep(1);
     }
-
     return 0;
 }
