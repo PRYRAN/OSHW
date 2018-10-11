@@ -1,0 +1,10 @@
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  0.3 sy,  0.0 ni, 97.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 16720632 total, 12871684 free,  3619596 used,   229352 buff/cache
+KiB Swap:  7166588 total,  7166588 free,        0 used. 12967304 avail Mem
+PID to renice [default pid = 1]
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    1 root      20   0    8.1m   0.1m   0.1m S   0.0  0.0   0:00.04 /init ro
+    3 root      20   0    8.1m   0.1m   0.1m S   0.0  0.0   0:00.00 /init ro
+    4 pryran    20   0   16.4m   3.4m   3.3m S   0.0  0.0   0:00.13 -bash
+ 4190 pryran    20   0   17.3m   2.3m   1.5m R   0.0  0.0   0:00.04 top
