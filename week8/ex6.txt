@@ -1,0 +1,1 @@
+Offset is 13, because our pages are 8kb. So, 16 - 13 = 3 bits for identifing. Thus, table has to have 2^3 entries.
