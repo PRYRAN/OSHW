@@ -1,0 +1,1 @@
+I understant it as cache. We might not have enough fast memory. So, in that cases, we place our program in disc space and access it via certain vertual adress. But stil, our program is not located at main memory.
