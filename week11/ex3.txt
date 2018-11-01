@@ -1,0 +1,2 @@
+There is a difference because we use printf() wich writes to stdout that is line buffered.
+So, when printf() reach "\n", everything before "\n" is going to be printed.
