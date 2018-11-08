@@ -1,0 +1,1 @@
+echo test | ./ex2 -a ex2.txt
