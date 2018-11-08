@@ -1,0 +1,1 @@
+Via O_SYNC it is fatser because of ability of working with buffer without ending of previous system call.
